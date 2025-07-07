@@ -20,7 +20,11 @@ sudo ./install_docker.sh
 ## Install Application
 
 1. Clone the repository
-2. Install dependencies:
+ ```bash
+git clone https://github.com/lumecore/reqistApi.git
+cd reqistApi
+```
+3. Install dependencies:
 ```bash
 npm install
 ```
